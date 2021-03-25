@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ldavi8533&show_icons=true&locale=en" alt="ldavi8533" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldavi8533&" alt="ldavi8533" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldavi8533&show_icons=true&locale=en&layout=compact" alt="ldavi8533" /></p>
