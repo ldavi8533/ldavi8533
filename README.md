@@ -1,7 +1,7 @@
 # ldavi85333
 
-# align="center">Oi 👋 meu nome é David
-### align="center">sou aluno do IFPB-CZ no curso de Análise e Desenvolvimento de sistemas
+# Oi 👋 meu nome é David
+### sou aluno do IFPB-CZ no curso de Análise e Desenvolvimento de sistemas
 
 - 🔭 Estou trabalhando atualmente [mypage](https://github.com/ldavi8533/mypage)
 
@@ -14,7 +14,7 @@
 
 - 📫 Meu E-mail **ldavi8533@gmail.com**
 
-### align="left">Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/aiaidavi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/aiaidavi/" height="30" width="40" /></a>
 <a href="https://discord.gg/ldavi#3505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ldavi#3505" height="30" width="40" /></a>
