@@ -22,4 +22,3 @@
  
 </div>
   
-  ![Snake animation](https://github.com/ldavi8533/ldavi8533/blob/output/github-contribution-grid-snake.svg)
